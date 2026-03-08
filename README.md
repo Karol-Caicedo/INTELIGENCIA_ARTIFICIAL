@@ -23,7 +23,7 @@ Se realizó uso de las siguientes herramientas o librerías:
     de BFS y DFS uniendo las imágenes de cada paso.
 
 
-  **from IPython.display import Image, display:** IPython.display permite mostrar imágenes dentro de notebooks como Google Collab o Jupyter. Esto se usa para visualizar          directamente los pasos del recorrido del grafo sin tener que descargar las imágenes.
+  **from IPython.display import Image, display:** permite mostrar imágenes dentro de notebooks como Google Collab o Jupyter. Esto se usa para visualizar          directamente los pasos del recorrido del grafo sin tener que descargar las imágenes.
 
 Las imágenes que representan cada paso de los recorridos BFS y DFS fueron generadas inicialmente mediante código en Python utilizando la librería matplotlib. Posteriormente, estas imágenes fueron descargadas y almacenadas en el repositorio de GitHub del proyecto. Para facilitar su visualización dentro del notebook en Google Colab, las imágenes se cargan directamente desde el repositorio utilizando las URLs en formato RAW de GitHub.
 
