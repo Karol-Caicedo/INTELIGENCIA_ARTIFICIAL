@@ -11,12 +11,12 @@ Se realizó uso de las siguientes herramientas o librerías:
   **from collections import deque:** Se utiliza deque (double-ended queue) para implementar la cola del algoritmo BFS. Esto permite recorrer el grafo por niveles.
   **import matplotlib.pyplot as plt:** Sirve para crear las visualizaciones del grafo. Con esta librería se dibujan: los nodos, las conexiones y los pasos del                                               algoritmo. 
 
-  plt.figure(): crea una nueva gráfica.
-  plt.plot(): dibuja las conexiones entre nodos.
-  plt scatter(): dibuja los nodos.
-  plt.text(): colocaa las etiquetas (S,A,B, etc.)
-  plt.title(): título de los gráficos.
-  plt.azis('off'): oculta los ejes.
+  -plt.figure(): crea una nueva gráfica.
+  -plt.plot(): dibuja las conexiones entre nodos.
+  -plt.scatter(): dibuja los nodos.
+  -plt.text(): colocaa las etiquetas (S,A,B, etc.)
+  -plt.title(): título de los gráficos.
+  -plt.axis('off'): oculta los ejes.
 
   **import imageio:**
     imageio se utiliza para generar archivos GIF a partir de varias imágenes. En este proyecto se usa para crear animaciones del recorrido
@@ -31,11 +31,11 @@ De esta manera, el notebook puede mostrar las visualizaciones sin necesidad de g
 
 **¿Cómo usar este archivo collab?**
 
-1- Descargar el archivo de la carpeta ALGORITMO_PYTHON.
-2- Abre tu drive y da clic en nuevo, subir archivo.
-3- Selecciona el archivo descargado, clic en abrir, esperar que cargue.
-4- Clic en recientes y doble clic izquierdo en el archivo.
-5- Clic izquierdo en conectar en la esquina superior derecha y por último clic en ejecutar todas.
+-Descargar el archivo de la carpeta ALGORITMO_PYTHON.
+-Abre tu drive y da clic en nuevo, subir archivo.
+-Selecciona el archivo descargado, clic en abrir, esperar que cargue.
+-Clic en recientes y doble clic izquierdo en el archivo.
+-Clic izquierdo en conectar en la esquina superior derecha y por último clic en ejecutar todas.
 
 
 
