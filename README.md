@@ -23,6 +23,15 @@ Se realizó uso de las siguientes herramientas o librerías:
   
   -plt.axis('off'): oculta los ejes.
 
+
+
+* **`plt.figure()`**: crea una nueva gráfica.
+* **`plt.plot()`**: dibuja las conexiones entre nodos.
+* **`plt.scatter()`**: dibuja los nodos.
+* **`plt.text()`**: coloca las etiquetas (S, A, B, etc.).
+* **`plt.title()`**: título de los gráficos.
+* **`plt.axis('off')`**: oculta los ejes.
+
   **import imageio:**
     imageio se utiliza para generar archivos GIF a partir de varias imágenes. En este proyecto se usa para crear animaciones del recorrido
     de BFS y DFS uniendo las imágenes de cada paso.
