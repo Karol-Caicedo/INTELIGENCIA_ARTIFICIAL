@@ -11,26 +11,12 @@ Se realizó uso de las siguientes herramientas o librerías:
   **from collections import deque:** Se utiliza deque (double-ended queue) para implementar la cola del algoritmo BFS. Esto permite recorrer el grafo por niveles.
   **import matplotlib.pyplot as plt:** Sirve para crear las visualizaciones del grafo. Con esta librería se dibujan: los nodos, las conexiones y los pasos del                                               algoritmo. 
 
-  -plt.figure(): crea una nueva gráfica.
-  
-  -plt.plot(): dibuja las conexiones entre nodos.
-  
-  -plt.scatter(): dibuja los nodos.
-  
-  -plt.text(): colocaa las etiquetas (S,A,B, etc.)
-  
-  -plt.title(): título de los gráficos.
-  
-  -plt.axis('off'): oculta los ejes.
-
-
-
-* **`plt.figure()`**: crea una nueva gráfica.
-* **`plt.plot()`**: dibuja las conexiones entre nodos.
-* **`plt.scatter()`**: dibuja los nodos.
-* **`plt.text()`**: coloca las etiquetas (S, A, B, etc.).
-* **`plt.title()`**: título de los gráficos.
-* **`plt.axis('off')`**: oculta los ejes.
+   * **`plt.figure()`**: crea una nueva gráfica.
+   * **`plt.plot()`**: dibuja las conexiones entre nodos.
+   * **`plt.scatter()`**: dibuja los nodos.
+   * **`plt.text()`**: coloca las etiquetas (S, A, B, etc.).
+   * **`plt.title()`**: título de los gráficos.
+   * **`plt.axis('off')`**: oculta los ejes.
 
   **import imageio:**
     imageio se utiliza para generar archivos GIF a partir de varias imágenes. En este proyecto se usa para crear animaciones del recorrido
@@ -43,14 +29,13 @@ Las imágenes que representan cada paso de los recorridos BFS y DFS fueron gener
 
 De esta manera, el notebook puede mostrar las visualizaciones sin necesidad de generar nuevamente las imágenes cada vez que se ejecuta el código.
 
-**¿Cómo usar este archivo collab?**
 
--Descargar el archivo de la carpeta ALGORITMO_PYTHON.
--Abre tu drive y da clic en nuevo, subir archivo.
--Selecciona el archivo descargado, clic en abrir, esperar que cargue.
--Clic en recientes y doble clic izquierdo en el archivo.
--Clic izquierdo en conectar en la esquina superior derecha y por último clic en ejecutar todas.
-
+### Pasos para ejecutar el proyecto
+1. **Descargar** el archivo de la carpeta `ALGORITMO_PYTHON`.
+2. **Abre tu Drive** y da clic en **Nuevo** > **Subir archivo**.
+3. **Selecciona** el archivo descargado, haz clic en **Abrir** y espera a que cargue.
+4. Clic en **Recientes** y doble clic izquierdo en el archivo para abrirlo.
+5. Clic izquierdo en **Conectar** (esquina superior derecha) y, por último, clic en **Ejecutar todas**.
 
 
       
