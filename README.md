@@ -12,10 +12,15 @@ Se realizó uso de las siguientes herramientas o librerías:
   **import matplotlib.pyplot as plt:** Sirve para crear las visualizaciones del grafo. Con esta librería se dibujan: los nodos, las conexiones y los pasos del                                               algoritmo. 
 
   -plt.figure(): crea una nueva gráfica.
+  
   -plt.plot(): dibuja las conexiones entre nodos.
+  
   -plt.scatter(): dibuja los nodos.
+  
   -plt.text(): colocaa las etiquetas (S,A,B, etc.)
+  
   -plt.title(): título de los gráficos.
+  
   -plt.axis('off'): oculta los ejes.
 
   **import imageio:**
