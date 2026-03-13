@@ -36,6 +36,10 @@ De esta manera, el notebook puede mostrar las visualizaciones sin necesidad de g
 3. **Selecciona** el archivo descargado, haz clic en **Abrir** y espera a que cargue.
 4. Clic en **Recientes** y doble clic izquierdo en el archivo para abrirlo.
 5. Clic izquierdo en **Conectar** (esquina superior derecha) y, por último, clic en **Ejecutar todas**.
+ 
+
+ENLACE DEL PROYECTO:
+https://drive.google.com/file/d/1CvckgRLR-2HDRxhPK_ucPyPZUItRuuwe/view?usp=sharing
 
 
       
