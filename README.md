@@ -157,8 +157,8 @@ En muchos sistemas de inteligencia artificial, **estos métodos se combinan** pa
 
  
 ENLACE DEL PROYECTO:
-https://drive.google.com/file/d/1CvckgRLR-2HDRxhPK_ucPyPZUItRuuwe/view?usp=sharing
-https://colab.research.google.com/drive/1w1cExEiG2DbuU3V5-2KOQA4XuyFn9epB?usp=sharing
+* https://drive.google.com/file/d/1CvckgRLR-2HDRxhPK_ucPyPZUItRuuwe/view?usp=sharing
+* https://colab.research.google.com/drive/1w1cExEiG2DbuU3V5-2KOQA4XuyFn9epB?usp=sharing
 
 
       
