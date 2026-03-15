@@ -32,7 +32,7 @@ De esta manera, el notebook puede mostrar las visualizaciones sin necesidad de g
 
 ### Pasos para ejecutar el proyecto
 1. **Da clic en el enlace del proyecto**.
-2. **Luego clic en ir a Collab**.
+2. **Luego clic en ir abrir con Google Colaboratory**.
 3. **Clic izquierdo en **Conectar** (esquina superior derecha) y, por último, clic en Ejecutar todas**.
 
  
