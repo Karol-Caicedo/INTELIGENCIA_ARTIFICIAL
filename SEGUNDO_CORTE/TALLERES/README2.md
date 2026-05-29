@@ -4,14 +4,12 @@
 </p>
 
 
-# <h1 align="center">📊 Taller Práctico de Pandas y Operaciones Matemáticas</h1>
+# 📊 Taller Práctico de Pandas y Operaciones Matemáticas
 
-<p align="center">
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange)
 ![Estado](https://img.shields.io/badge/Estado-Completado-success)
-</p>
 
 ---
 
