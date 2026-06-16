@@ -11,7 +11,7 @@ Aplicar técnicas de análisis estadístico descriptivo para transformar datos r
 
 ---
 
-## 📌 Objetivos Específicos
+##  Objetivos Específicos
 
 - Identificar población, muestra, unidad de análisis y tipo de variable del conjunto de datos.
 - Construir una tabla de distribución de frecuencias completa (fi, hi, Fi, Hi) a partir de la variable **Apps Descargadas**.
@@ -21,7 +21,7 @@ Aplicar técnicas de análisis estadístico descriptivo para transformar datos r
 
 ---
 
-## 📂 Archivos del Proyecto
+##  Archivos del Proyecto
 
 | Archivo | Descripción |
 |---|---|
@@ -62,7 +62,7 @@ Amplitud (c) = ⌈Rango / k⌉ = ⌈102 / 7⌉ = 15 apps por clase
 
 ---
 
-## 📈 Gráficos Generados
+##  Gráficos Generados
 
 1. **Histograma de Frecuencias** – muestra la forma de la distribución y la clase modal.
 2. **Polígono de Frecuencias** – conecta las marcas de clase revelando la asimetría positiva.
@@ -75,14 +75,13 @@ Amplitud (c) = ⌈Rango / k⌉ = ⌈102 / 7⌉ = 15 apps por clase
 | Indicador | Resultado |
 |---|---|
 | Clase modal | [60 – 75) con fi = 10 (20%) |
-| Tipo de distribución | Asimétrica positiva (sesgo derecho) |
 | Mediana estimada | ~82 apps (intervalo [75–90)) |
 | 80% de usuarios | Descargaron < 105 apps |
 | "Power users" (>105 apps) | 20% de la muestra |
 
 ---
 
-## 📚 Referencias
+##  Referencias
 
 - Devore, J. L. (2016). *Probabilidad y estadística para ingeniería y ciencias* (9.ª ed.). Cengage Learning.
 - Walpole, R. E., Myers, R. H., & Myers, S. L. (2012). *Probabilidad y estadística para ingeniería y ciencias* (9.ª ed.). Pearson.
