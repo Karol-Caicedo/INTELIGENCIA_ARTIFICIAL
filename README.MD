@@ -152,6 +152,108 @@ Las variables que presentan mayor capacidad para diferenciar transacciones fraud
 * Numero_Transacciones_Diarias
 * Distancia_Geografica
 
+# Conclusiones
+
+## 1. El valor de la transacción es un factor relevante para la detección de fraude
+
+El análisis realizado permitió identificar que las transacciones clasificadas como fraudulentas presentan una tendencia a concentrarse en montos más elevados que las transacciones legítimas. Esto sugiere que el valor económico de una operación puede constituir una señal de alerta importante para los sistemas de monitoreo financiero.
+
+---
+
+## 2. La frecuencia de transacciones diarias influye en la identificación de comportamientos sospechosos
+
+Se evidenció que los registros asociados a fraude suelen presentar una mayor cantidad de transacciones realizadas durante un mismo día. Este comportamiento podría indicar intentos de aprovechar múltiples operaciones antes de que los mecanismos de seguridad detecten la actividad irregular.
+
+---
+
+## 3. La distancia geográfica es una de las variables con mayor capacidad predictiva
+
+Los resultados muestran que las transacciones fraudulentas tienden a realizarse desde ubicaciones geográficas más distantes en comparación con las operaciones legítimas. Esto demuestra que los cambios abruptos en la ubicación de las transacciones pueden ser un indicador importante para la detección temprana de fraude.
+
+---
+
+## 4. La hora del día tiene una influencia limitada en la detección de fraude
+
+El análisis exploratorio mostró que las transacciones fraudulentas y legítimas se distribuyen de manera relativamente uniforme a lo largo de las diferentes horas del día. Por lo tanto, esta variable presenta una capacidad limitada para diferenciar entre ambos tipos de transacciones cuando se analiza de forma individual.
+
+---
+
+## 5. La detección efectiva de fraude requiere la combinación de múltiples variables
+
+Ninguna de las variables analizadas logró separar completamente los casos de fraude de los casos legítimos. Esto evidencia que la identificación de actividades fraudulentas depende de la interacción entre diferentes factores, por lo que resulta necesario emplear modelos analíticos capaces de evaluar múltiples características simultáneamente.
+
+---
+
+## 6. El análisis exploratorio de datos facilita la identificación de patrones de riesgo
+
+La utilización de herramientas estadísticas y de visualización permitió identificar tendencias y comportamientos relevantes dentro del conjunto de datos. Esto demuestra que el análisis exploratorio constituye una etapa fundamental para comprender los factores asociados al fraude financiero y apoyar la toma de decisiones basada en datos.
+
+---
+
+# Recomendaciones Empresariales
+
+## 1. Implementar sistemas automáticos de alerta basados en niveles de riesgo
+
+La entidad bancaria debería configurar alertas automáticas para transacciones que superen determinados umbrales de valor o que presenten características inusuales, como una alta frecuencia de operaciones o ubicaciones geográficas atípicas. Esto permitiría actuar de forma preventiva y reducir posibles pérdidas económicas.
+
+---
+
+## 2. Incorporar modelos de Machine Learning para la detección de fraude
+
+Se recomienda implementar algoritmos de aprendizaje automático capaces de analizar múltiples variables simultáneamente y asignar una probabilidad de riesgo a cada transacción. Esta estrategia permitiría mejorar la precisión en la identificación de operaciones fraudulentas y optimizar los procesos de monitoreo.
+
+---
+
+## 3. Fortalecer los mecanismos de autenticación para operaciones de alto riesgo
+
+Cuando una transacción presente características sospechosas, la entidad debería solicitar mecanismos adicionales de validación, tales como autenticación multifactor, códigos de verificación o confirmaciones mediante aplicaciones móviles. Esto contribuiría a reducir el riesgo de accesos no autorizados.
+
+---
+
+## 4. Implementar monitoreo continuo del comportamiento de los clientes
+
+La creación de perfiles de comportamiento transaccional permitiría detectar desviaciones significativas respecto a los hábitos habituales de cada usuario. Este enfoque facilitaría la identificación temprana de posibles eventos de fraude y mejoraría la capacidad de respuesta de la organización.
+
+---
+
+## 5. Capacitar al personal en análisis de datos y prevención de fraude
+
+Es recomendable fortalecer las competencias del personal encargado de la gestión de riesgos mediante programas de formación en análisis de datos, ciberseguridad e Inteligencia Artificial. Esto permitirá una mejor interpretación de las alertas generadas por los sistemas automatizados y una toma de decisiones más eficiente.
+
+---
+
+# Aplicación de Machine Learning e Inteligencia Artificial
+
+## ¿Cómo podrían utilizarse técnicas de Machine Learning o Inteligencia Artificial para automatizar la toma de decisiones en este caso?
+
+Las técnicas de Machine Learning e Inteligencia Artificial pueden utilizarse para automatizar la detección de fraude mediante el análisis continuo de las transacciones financieras en tiempo real. A partir de variables como el valor de la transacción, la cantidad de operaciones realizadas por un usuario, la distancia geográfica y otros factores relevantes, los modelos pueden aprender patrones de comportamiento normales y diferenciarlos de actividades potencialmente fraudulentas.
+
+Algoritmos de clasificación supervisada como:
+
+- Regresión Logística
+- Árboles de Decisión
+- Random Forest
+- Redes Neuronales
+
+pueden entrenarse utilizando datos históricos previamente etiquetados como **Fraude** y **No Fraude**. Una vez entrenados, estos modelos son capaces de evaluar automáticamente cada nueva transacción y asignar una probabilidad de riesgo.
+
+Cuando una operación supera un nivel determinado de riesgo, el sistema puede ejecutar acciones automáticas como:
+
+- Generar alertas para el área de seguridad.
+- Solicitar autenticación adicional al cliente.
+- Retener temporalmente la transacción para validación.
+- Bloquear preventivamente operaciones sospechosas.
+
+Adicionalmente, técnicas de aprendizaje no supervisado como:
+
+- Clustering
+- Detección de anomalías
+- Isolation Forest
+
+permiten identificar patrones inusuales incluso cuando no existen ejemplos previos de fraude registrados en la base de datos.
+
+La implementación de estas tecnologías permite a las entidades bancarias mejorar la precisión en la detección de fraude, reducir pérdidas económicas, optimizar los tiempos de respuesta y fortalecer la seguridad de los clientes mediante procesos de decisión automatizados basados en datos.
+
 ---
 
 ## Conclusiones
