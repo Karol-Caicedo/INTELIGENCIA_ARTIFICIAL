@@ -256,8 +256,6 @@ La implementación de estas tecnologías permite a las entidades bancarias mejor
 
 ---
 
-## Conclusiones
-
 * NumPy es una herramienta fundamental para el procesamiento eficiente de datos numéricos.
 * Las medidas estadísticas descriptivas permiten comprender el comportamiento general de un conjunto de datos.
 * La generación de datos sintéticos facilita la simulación de escenarios utilizados en Inteligencia Artificial.
