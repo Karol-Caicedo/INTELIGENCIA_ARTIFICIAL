@@ -275,9 +275,10 @@ sudo systemctl restart schooltrack
 
 # 📋 Scrum
 
-## Herramienta Utilizada
+## Herramientas Utilizadas
 
 🗃️ Trello: https://trello.com/b/pjIVoALO/seminarioii
+
 #️⃣ Slack: https://app.slack.com/client/T0C3QTGACQN/D0C4KLFBK0V
 
 ---
