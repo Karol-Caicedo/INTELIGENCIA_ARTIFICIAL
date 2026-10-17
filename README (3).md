@@ -29,7 +29,6 @@ Plataforma móvil integral desarrollada con **React native**, **Expo Go**, **ASP
 - 🚨 Problema que Resuelve
 - 👥 Usuarios del Sistema
 - ⚙️ Funcionalidades Principales
-- 🌐 URLs del Proyecto
 - 🏗️ Arquitectura General
 - 🧠 Backend
 - 📱 Frontend
@@ -108,15 +107,6 @@ Al finalizar los cuatro Sprints el sistema permitirá:
 - ✅ Notificaciones automáticas a los acudientes.
 - ✅ Dashboard administrativo con reportes históricos.
 - ✅ Plataforma segura mediante autenticación 
-
-
-
-# 🌐 URLs del Proyecto
-
-| Servicio | URL |
-|-----------|-----|
-| Frontend | https://schooltrack.seminario1.eleueleo.com/ |
-| Backend API | https://schooltrack.seminario1.eleueleo.com/api |
 
 
 
