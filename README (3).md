@@ -3,7 +3,7 @@
 
 # 📍 SchoolTrack 📍
 
-### Fullstack | Proyecto Educativo | API REST + Interfaz Web
+### Fullstack | Proyecto Educativo | API REST + Interfaz Móvil
 
 Plataforma móvil integral desarrollada con **React native**, **Expo Go**, **ASP.NET Core** y **PostgreSQL** para la gestión logística del transporte escolar. Permite seguimiento GPS en tiempo real, administración de conductores, gestión de estudiantes, control de rutas y monitoreo de horarios para mejorar la seguridad y eficiencia del servicio.
 
