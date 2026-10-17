@@ -5,14 +5,14 @@
 
 ### Fullstack | Proyecto Educativo | API REST + Interfaz Web
 
-Plataforma web integral desarrollada con **React**, **Vite**, **ASP.NET Core** y **PostgreSQL** para la gestión logística del transporte escolar. Permite seguimiento GPS en tiempo real, administración de conductores, gestión de estudiantes, control de rutas y monitoreo de horarios para mejorar la seguridad y eficiencia del servicio.
+Plataforma móvil integral desarrollada con **React native**, **Vite**, **ASP.NET Core** y **PostgreSQL** para la gestión logística del transporte escolar. Permite seguimiento GPS en tiempo real, administración de conductores, gestión de estudiantes, control de rutas y monitoreo de horarios para mejorar la seguridad y eficiencia del servicio.
 
 ---
 
 ![Estado](https://img.shields.io/badge/STATUS-En%20Desarrollo-00ffcc?style=for-the-badge&logo=github)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-8a2be2?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo Go](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -92,6 +92,9 @@ SchoolTrack busca solucionar estos problemas mediante una plataforma unificada, 
 - Registro de eventos e incidencias.
 - Panel administrativo.
 - Autenticación y control de acceso por roles.
+- Reconocimiento facial para control de acceso al bus de los estudiantes.
+- Sistema de somnolencia para el conductor.
+- Notificación a los acudientes de la cercanía de los estudiantes a la parada de la casa ( 500m)
 
 ---
 # 🏁 Resultado Esperado
@@ -126,7 +129,7 @@ Al finalizar los cuatro Sprints el sistema permitirá:
 # 🏗️ Arquitectura General
 
 ```text
-Frontend (React + Vite)
+Frontend (React native + Expo Go)
           │
           ▼
  ASP.NET Core REST API
@@ -213,7 +216,7 @@ Frontend/transporte-escolar-web
 
 ## Tecnologías
 
-* React
+* React Native 
 * Vite
 * HTML
 * CSS
@@ -309,7 +312,7 @@ https://trello.com/invite/b/69be1364f3228e2addf4032d/ATTIb2742128c14ad31a945f30b
 # 🔒 Estado del Proyecto
 
 ```text
-🟡 Próximo a desarrollar
+🟡 En desarollo
 ```
 
 ---
@@ -321,9 +324,9 @@ https://trello.com/invite/b/69be1364f3228e2addf4032d/ATTIb2742128c14ad31a945f30b
 | Scrum Master       | Daniella Rodriguez     |
 | Frontend Developer | Luisa                  |
 | Frontend Developer | Karol Caicedo          |
-| Backend Developer  | Christian Tellez       |
+| Backend Developer  | Dairon Valencia        |
 | Backend Developer  | Elkin  Andres Chalarka |
-| Base de Datos      | Christian Tellez       |
+
 
 ---
 
