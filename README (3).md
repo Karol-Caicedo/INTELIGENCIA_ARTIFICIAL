@@ -9,7 +9,7 @@ Plataforma móvil integral desarrollada con **React native**, **Expo Go**, **ASP
 
 ---
 
-![Estado](https://img.shields.io/badge/STATUS-En%20Desarrollo-00ffcc?style=for-the-badge&logo=github)
+![Estado](https://img.shields.io/badge/STATUS-En%20Desarrollo-00ffcc?style=for-the-badge&logo==react&logoColor=black)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-8a2be2?style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo Go](https://img.shields.io/badge/Expo_Go-ffffff?style=for-the-badge&logo=expo&logoColor=black)
