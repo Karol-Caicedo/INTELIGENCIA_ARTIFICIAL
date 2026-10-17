@@ -305,7 +305,7 @@ sudo systemctl restart schooltrack
 
 Trello
 
-https://trello.com/invite/b/69be1364f3228e2addf4032d/ATTIb2742128c14ad31a945f30b16f52bafa0CDEEB0E/seminarioproyecto
+https://trello.com/b/pjIVoALO/seminarioii
 
 ---
 
@@ -321,7 +321,7 @@ https://trello.com/invite/b/69be1364f3228e2addf4032d/ATTIb2742128c14ad31a945f30b
 
 | Rol                | Integrante             |
 | ------------------ | -----------------------|
-| Scrum Master       | Daniella Rodriguez     |
+| Scrum Master       | Karol Caicedo          |
 | Frontend Developer | Luisa                  |
 | Frontend Developer | Karol Caicedo          |
 | Backend Developer  | Dairon Valencia        |
