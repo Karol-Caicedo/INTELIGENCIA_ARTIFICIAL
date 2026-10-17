@@ -31,9 +31,9 @@ Plataforma móvil integral desarrollada con **React native**, **Expo Go**, **ASP
 - ⚙️ Funcionalidades Principales
 - 🌐 URLs del Proyecto
 - 🏗️ Arquitectura General
-- 🔧 Backend
+- 🧠 Backend
+- 📱 Frontend
 - 🗄️ Base de Datos
-- 💻 Frontend
 - 🚀 CI/CD y Deploy
 - 📋 Scrum
 - 👥 Equipo
