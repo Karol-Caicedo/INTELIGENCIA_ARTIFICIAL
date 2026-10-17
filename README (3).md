@@ -43,7 +43,7 @@ Plataforma móvil integral desarrollada con **React native**, **Vite**, **ASP.NE
 
 # 🎯 Visión
 
-El proyecto consiste en el desarrollo de una plataforma web y móvil de alta escalabilidad diseñada para optimizar la seguridad y la gestión del transporte escolar. El sistema conecta en tiempo real a acudientes, conductores e instituciones educativas mediante herramientas de monitoreo y comunicación.
+El proyecto consiste en el desarrollo de una plataforma móvil de alta escalabilidad diseñada para optimizar la seguridad y la gestión del transporte escolar. El sistema conecta en tiempo real a acudientes, conductores e instituciones educativas mediante herramientas de monitoreo y comunicación.
 
 ---
 
@@ -118,11 +118,7 @@ Al finalizar los cuatro Sprints el sistema permitirá:
 | Frontend | https://schooltrack.seminario1.eleueleo.com/ |
 | Backend API | https://schooltrack.seminario1.eleueleo.com/api |
 
-## Estado Actual
 
-```text
-502 Bad Gateway
-````
 
 ---
 
@@ -143,7 +139,9 @@ Frontend (React native + Expo Go)
 
 ---
 
-# 🔧 Backend
+# <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6f3670ef-0352-4ac9-a945-731863395a3d" />
+ Backend 
+
 
 ## Tecnologías
 
@@ -155,11 +153,18 @@ Frontend (React native + Expo Go)
 | Repository Pattern    | Acceso a datos |
 | GitHub Actions        | CI/CD          |
 
-## Target Framework
 
-```xml
-<TargetFramework>net10.0</TargetFramework>
-```
+# 📱 Frontend
+
+
+## Tecnologías
+
+| Tecnología            | Uso                                   |
+| --------------------- | --------------------------------------|
+|  React Native         | Framework para desarollar la app móvil|
+|  Expo Go              | Compilar la app móvil                 |
+
+
 
 ---
 
@@ -186,11 +191,6 @@ Vehiculo
 Historial
 ```
 
-## DbContext
-
-```csharp
-AppDbContext
-```
 
 ## Tablas Configuradas
 
@@ -208,36 +208,28 @@ DbSet<Historial>
 
 # 💻 Frontend
 
-## Ubicación
-
-```text
-Frontend/transporte-escolar-web
-```
 
 ## Tecnologías
 
-* React Native 
-* Vite
-* HTML
-* CSS
-* JavaScript
+| Tecnología            | Uso                                   |
+| --------------------- | --------------------------------------|
+|  React Native         | Framework para desarollar la app móvil|
+|  Expo Go              | Compilar la app móvil                 |
 
-## Estado Actual
 
 ### Completado
 
 * ✅ Home
 * ✅ Login
 * ✅ Deploy automático funcionando
+* ✅ Consumo de API
+* ✅ Integración con PostgreSQL
 
 ### Pendiente
 
-* ⏳ Consumo de API
-* ⏳ Integración con PostgreSQL
-
 ## URL Pública
 
-https://schooltrack.seminario1.eleueleo.com
+xxxxxx
 
 ---
 
