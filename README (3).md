@@ -306,6 +306,7 @@ sudo systemctl restart schooltrack
 Trello
 
 https://trello.com/b/pjIVoALO/seminarioii
+https://app.slack.com/client/T0C3QTGACQN/D0C4KLFBK0V
 
 ---
 
