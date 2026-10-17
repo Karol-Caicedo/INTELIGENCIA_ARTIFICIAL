@@ -139,8 +139,7 @@ Frontend (React native + Expo Go)
 
 ---
 
-# <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6f3670ef-0352-4ac9-a945-731863395a3d" />
- Backend 
+# 🧠 Backend 
 
 
 ## Tecnologías
@@ -206,15 +205,6 @@ DbSet<Historial>
 
 ---
 
-# 💻 Frontend
-
-
-## Tecnologías
-
-| Tecnología            | Uso                                   |
-| --------------------- | --------------------------------------|
-|  React Native         | Framework para desarollar la app móvil|
-|  Expo Go              | Compilar la app móvil                 |
 
 
 ### Completado
@@ -226,6 +216,8 @@ DbSet<Historial>
 * ✅ Integración con PostgreSQL
 
 ### Pendiente
+
+
 
 ## URL Pública
 
@@ -295,7 +287,7 @@ sudo systemctl restart schooltrack
 
 ## Herramienta Utilizada
 
-Trello
+Trello y Slack
 
 https://trello.com/b/pjIVoALO/seminarioii
 https://app.slack.com/client/T0C3QTGACQN/D0C4KLFBK0V
