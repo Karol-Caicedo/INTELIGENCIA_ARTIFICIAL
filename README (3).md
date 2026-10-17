@@ -283,7 +283,7 @@ sudo systemctl restart schooltrack
 
 ---
 
-# 🔒 Estado del Proyecto
+# ⏳ Estado del Proyecto
 
 ```text
 🟡 En desarollo
