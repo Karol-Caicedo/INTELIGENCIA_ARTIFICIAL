@@ -16,7 +16,7 @@ Plataforma móvil integral desarrollada con **React native**, **Expo Go**, **ASP
 ![ASP.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+
 
 </div>
 
