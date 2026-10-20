@@ -95,7 +95,7 @@ SchoolTrack busca solucionar estos problemas mediante una aplicación móvil uni
 - Notificación a los acudientes cuando el estudiante esté cerca de llegar a su respectiva parada ( 500m)
 
 ---
-# 🏁 Resultado Esperado
+# 🏆 Resultado Esperado
 
 Al finalizar los cincos Sprints el sistema permitirá:
 
