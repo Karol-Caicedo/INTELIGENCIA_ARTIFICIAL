@@ -106,7 +106,6 @@ Al finalizar los cincos Sprints el sistema permitirá:
 -  Notificaciones automáticas a los acudientes.
 -  Dashboard administrativo con reportes históricos.
 -  Plataforma segura mediante autenticación.
--  Notificar a los acudientes.
 -  Tomar el registro de asistencia de los estudiante mediante reconocimiento facial.
 -  Aplicar sistema de somnolencia para el conductor.
 
