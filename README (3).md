@@ -164,7 +164,7 @@ Frontend (React native + Expo Go)
 | Configuración | Valor                  |
 | ------------- | ---------------------- |
 | Motor         | PostgreSQL             |
-| Host          | localhost              |
+| Host          | schooltrack-db.c7meoui423f1.us-east-2.rds.amazonaws.com|
 | Puerto        | 5110                   |
 | Base de Datos | semi1_schooltrack_prod |
 
