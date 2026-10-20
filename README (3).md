@@ -33,7 +33,6 @@ Plataforma móvil integral desarrollada con **React native**, **Expo Go**, **ASP
 - 🧠 Backend
 - 📱 Frontend
 - 🗄️ Base de Datos
-- 🚀 CI/CD y Deploy
 - 📋 Scrum
 - 👥 Equipo
 - 📄 Licencia
