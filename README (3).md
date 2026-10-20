@@ -165,7 +165,7 @@ Frontend (React native + Expo Go)
 | ------------- | ---------------------- |
 | Motor         | PostgreSQL             |
 | Host          | localhost              |
-| Puerto        | 5432                   |
+| Puerto        | 5110                   |
 | Base de Datos | semi1_schooltrack_prod |
 
 ## Entidades
