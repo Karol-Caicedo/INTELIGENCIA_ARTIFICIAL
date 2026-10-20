@@ -67,7 +67,7 @@ Actualmente los padres de familia tienen poca visibilidad sobre el trayecto diar
 
 Adicionalmente, los colegios y transportadores carecen de herramientas centralizadas para registrar novedades y monitorear rutas en tiempo real.
 
-SchoolTrack busca solucionar estos problemas mediante una plataforma unificada, accesible y segura.
+SchoolTrack busca solucionar estos problemas mediante una aplicación móvil unificada, accesible y segura.
 
 ---
 
