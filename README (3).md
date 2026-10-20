@@ -90,9 +90,9 @@ SchoolTrack busca solucionar estos problemas mediante una plataforma unificada, 
 - Registro de eventos e incidencias.
 - Panel administrativo.
 - Autenticación y control de acceso por roles.
-- Reconocimiento facial para control de acceso al bus de los estudiantes.
+- Reconocimiento facial para control de asistencia/acceso al bus de los estudiantes.
 - Sistema de somnolencia para el conductor.
-- Notificación a los acudientes de la cercanía de los estudiantes a la parada de la casa ( 500m)
+- Notificación a los acudientes cuando el estudiante esté cerca de llegar a su respectiva parada ( 500m)
 
 ---
 # 🏁 Resultado Esperado
