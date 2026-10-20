@@ -98,7 +98,7 @@ SchoolTrack busca solucionar estos problemas mediante una plataforma unificada, 
 ---
 # 🏁 Resultado Esperado
 
-Al finalizar los cuatro Sprints el sistema permitirá:
+Al finalizar los cincos Sprints el sistema permitirá:
 
 - ✅ Administración completa de usuarios y rutas.
 - ✅ Seguimiento GPS en tiempo real.
@@ -197,79 +197,10 @@ DbSet<Historial>
 
 
 
-### Completado
-
-* ✅ Home
-* ✅ Login
-* ✅ Deploy automático funcionando
-* ✅ Consumo de API
-* ✅ Integración con PostgreSQL
-
-### Pendiente
-
-
-
-## URL Pública
-
-xxxxxx
-
 ---
 
-# 🚀 CI/CD y Deploy
 
-## Frontend
 
-### Workflow
-
-```text
-.github/workflows/primero.yml
-```
-
-### Flujo
-
-```text
-Checkout
-    ↓
-Node.js 24.16.0
-    ↓
-npm install
-    ↓
-npm run build
-    ↓
-rsync dist/
-    ↓
-Servidor
-```
-
----
-
-## Backend
-
-### Workflow
-
-```text
-.github/workflows/deploy-backend.yml
-```
-
-### Flujo
-
-```text
-Checkout
-    ↓
-.NET 10
-    ↓
-dotnet restore
-    ↓
-dotnet publish
-    ↓
-publish/
-    ↓
-rsync
-    ↓
-/home/schooltrack/backend/
-    ↓
-sudo systemctl restart schooltrack
-```
 
 ---
 
