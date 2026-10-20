@@ -99,14 +99,16 @@ SchoolTrack busca solucionar estos problemas mediante una aplicación móvil uni
 
 Al finalizar los cincos Sprints el sistema permitirá:
 
-- ✅ Administración completa de usuarios y rutas.
-- ✅ Seguimiento GPS en tiempo real.
-- ✅ Monitoreo simultáneo de múltiples vehículos.
-- ✅ Registro digital de abordaje y entrega.
-- ✅ Notificaciones automáticas a los acudientes.
-- ✅ Dashboard administrativo con reportes históricos.
-- ✅ Plataforma segura mediante autenticación 
-
+-  Administración completa de usuarios y rutas.
+-  Seguimiento GPS en tiempo real.
+-  Monitoreo simultáneo de múltiples vehículos.
+-  Registro digital de abordaje y entrega.
+-  Notificaciones automáticas a los acudientes.
+-  Dashboard administrativo con reportes históricos.
+-  Plataforma segura mediante autenticación.
+-  Notificar a los acudientes.
+-  Tomar el registro de asistencia de los estudiante mediante reconocimiento facial.
+-  Aplicar sistema de somnolencia para el conductor.
 
 
 ---
